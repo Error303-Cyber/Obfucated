@@ -14,7 +14,7 @@ ls
 ```
 # USAGE py2
 ```
-pytho2 obfucated.py file.py
+python2 obfucated.py file.py
 ```
 # USAGE py3
 ```
