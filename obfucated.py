@@ -40,8 +40,7 @@ def obfuscate(content):
 def main():
     print('\n\n____ ___  ____ _  _ ____ ____ ____ ___ ____ ___  \n|  | |__] |___ |  | [__  |    |__|  |  |___ |  \ \n|__| |__] |    |__| ___] |___ |  |  |  |___ |__/ ')
     print('\nAU > Boy Hamzah')
-    print('GH > https://github.com/BOY-H4MZ4H')
-    print('FB > https://github.com/Boy.Hamzaah')
+    print('GH > https://github.com/XNSCODE')
     print('TM > XNSCODE')
     print('')
 
